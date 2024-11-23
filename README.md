@@ -1,5 +1,7 @@
 # Seidi_Rahmat_2210010262_Uts
- Aplikasi Catatan Harian Sederhana
+
+**Aplikasi Catatan Harian Sederhana**
+
 **Deskripsi Singkat Aplikasi Catatan Harian**
 Aplikasi ini dirancang untuk membantu pengguna dalam mengelola catatan harian mereka. Fitur-fitur utamanya meliputi:
 1. Menambah Catatan Baru: Pengguna dapat memasukkan judul dan isi catatan baru.
